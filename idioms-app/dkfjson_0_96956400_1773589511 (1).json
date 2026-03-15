@@ -1,0 +1,3 @@
+{
+    "text": "{\n  \"name\": \"Perfect Idioms EN-RU\",\n  \"short_name\": \"Idioms\",\n  \"description\": \"Interactive English-Russian idioms learning app\",\n  \"start_url\": \"\/\",\n  \"display\": \"standalone\",\n  \"background_color\": \"#667eea\",\n  \"theme_color\": \"#667eea\",\n  \"orientation\": \"portrait-primary\",\n  \"icons\": [\n    {\n      \"src\": \"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAA...\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image\/png\"\n    }\n  ]\n}"
+}
